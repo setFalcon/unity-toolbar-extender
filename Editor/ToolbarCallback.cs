@@ -114,6 +114,7 @@ namespace UnityToolbarExtender
 						{
 									flexGrow = 1,
 									flexDirection = FlexDirection.Row,
+									flexBasis = 0,
 									justifyContent = Justify.FlexEnd,
 									alignItems = Align.Center
 						}
@@ -126,6 +127,7 @@ namespace UnityToolbarExtender
 						{
 									flexGrow = 1,
 									flexDirection = FlexDirection.Row,
+									flexBasis = 0,
 									justifyContent = Justify.FlexStart,
 									alignItems = Align.Center
 						}
